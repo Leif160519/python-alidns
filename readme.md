@@ -1,5 +1,5 @@
 ## 说明
-- 魔改自：https://github.com/zeruns/-Python-aliddns_ipv4-ipv6,修复了一些错误，新增了操作选项
+- 魔改自：[-Python-aliddns_ipv4-ipv6][1],修复了一些错误，新增了操作选项
 
 ## 使用方法
 - 1.安装依赖库
@@ -58,3 +58,5 @@ domain = "domain"  # 主域名
 ./alidns.py delete A kkk 192.168.31.65
 ./alidns.py update CNAME kkk www.baidu.com
 ```
+
+[1]: https://github.com/zeruns/-Python-aliddns_ipv4-ipv6
